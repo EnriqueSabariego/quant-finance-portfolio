@@ -5,7 +5,7 @@ This project demonstrates an end-to-end quantitative finance data pipeline built
 📊 **Dashboard**
 
 Tableau Public link:  
-[[Insert your Tableau Public URL here]](https://public.tableau.com/app/profile/enrique.sabariego/viz/QuantFinanceTableauDashboard/Dashboard1?publish=yes)
+https://public.tableau.com/app/profile/enrique.sabariego/viz/QuantFinanceTableauDashboard/Dashboard1?publish=yes
 
 📊 **Dashboard Preview**
 
