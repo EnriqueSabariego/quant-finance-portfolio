@@ -1,1 +1,0 @@
-aquí van las imagenes
