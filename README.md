@@ -9,7 +9,7 @@ https://public.tableau.com/app/profile/enrique.sabariego/viz/QuantFinanceTableau
 
 📊 **Dashboard Preview**
 
-![Tableau Dashboard](images/dashboard_screenshot1.png)
+![Tableau Dashboard](images/Quant Finance Tableau Dashboard-Screenshoot.png)
 
 🗂 **Dataset**
 
